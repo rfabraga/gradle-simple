@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
 Example Gradle project producing a single jar. Uses the `maven` plugin to publish the jar to the local repository.
-Forked for testing purposes with my graduation conclusião project.
+Forked for testing purposes with my graduation CI/CD conclusion project.
 
 [https://jitpack.io/#jitpack/gradle-simple](https://jitpack.io/#jitpack/gradle-simple)
 
